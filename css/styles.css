@@ -1,8 +1,12 @@
 @import url("http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather");
 @import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+body {
+  margin: 0 auto; }
+
 h1 {
   font-size: 2.2rem;
-  color: orange; }
+  color: #2176C7;
+  background-color: orange; }
 
 .test {
   font-size: 1.2rem;
